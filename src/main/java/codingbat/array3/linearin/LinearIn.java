@@ -1,4 +1,4 @@
-package main.java.codingbat.array3;
+package main.java.codingbat.array3.linearin;
 
 public class LinearIn {
 
